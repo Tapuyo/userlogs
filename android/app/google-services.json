@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891496350475",
+    "project_id": "testexamuser-eb21c",
+    "storage_bucket": "testexamuser-eb21c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891496350475:android:5f454f6f7337deb78e180e",
+        "android_client_info": {
+          "package_name": "com.example.userlogtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNH6gC9O-H1_GE8-koiqMfYPHIFAdSCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
